@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+    background-color: chartreuse;
+    color: darkred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 20%;
+   
+}
+
+.lasagna{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-color:khaki;
+    border-radius: 50%;
+}
+
+.tiramisu{
+    border-radius: 50%;
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    background-color: aqua;
+}
